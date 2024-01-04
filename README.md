@@ -23,3 +23,10 @@ Invece il collegamento del lettore rc522 a arduino nano è questo:
 
 
 ![immagine_2024-01-04_185955364-removebg-preview (1)](https://github.com/joel00007/NFC-tag-editor/assets/148422777/a9834feb-2f4c-4c8e-9805-4778571e125d)
+
+
+
+Tutto l'occorrente l'ho acquistato qua:
+- Arduino nano e RC522: https://www.amazon.it/gp/product/B07JLBGYQ6/ref=ox_sc_act_title_5?smid=A1X7QLRQH87QA3&th=1
+- Porta batteria 9v: https://www.amazon.it/gp/product/B0823W1MX7/ref=ox_sc_act_title_2?smid=A2ZY4SNMU91J2Q&th=1
+- Bottone meccanico: https://www.amazon.it/gp/product/B07L74MMG8/ref=sw_img_1?smid=A12HG9LT85UKFZ&th=1

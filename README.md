@@ -9,3 +9,4 @@ esteticamente gradevole.
 Lo scopo di questo progetto è creare un oggetto tascabile e esteticamente piacevole per modificare facilmente e velocemente i tag NFC. L'idea mi
 è venuta quando ho installato delle serrature smart con tecnologia a 13,56 MHz e ho dovuto creare più tag, modificando gli UID di quelli acquistati 
 da terze parti.
+![image](https://github.com/joel00007/NFC-tag-editor/assets/148422777/e7dd7593-5063-4b13-8d43-250e026398b6)

@@ -12,13 +12,20 @@ Progetto riguardante un piccolo dispositivo che grazie a Arduino nano e il letto
 
 
 Salve.
-È da un po' di tempo che penso di realizzare questo piccolo, ma divertente progetto. Ho iniziato con delle prove utilizzando un Arduino Mega, alcuni 
-LED e un piccolo schermo OLED. Tutto funzionava bene, ma ha perso di significato a causa delle dimensioni non accettabili.
-Quindi, eccomi qua: ho acquistato un nuovo lettore e un microcontrollore Arduino Nano. Ho disegnato l'intero case in 3D per ottenere un risultato
-esteticamente gradevole.
-Lo scopo di questo progetto è creare un oggetto tascabile e esteticamente piacevole per modificare facilmente e velocemente i tag NFC. L'idea mi
-è venuta quando ho installato delle serrature smart con tecnologia a 13,56 MHz e ho dovuto creare più tag, modificando gli UID di quelli acquistati 
-da terze parti.
+È da un po' di tempo che penso di realizzare questo piccolo, ma divertente progetto. Ho iniziato con delle prove
+utilizzando un Arduino Mega, alcuni LED e un piccolo schermo OLED. Tutto funzionava bene, ma ha perso di significato 
+a causa delle dimensioni non accettabili. Quindi, eccomi qua: ho acquistato un nuovo lettore e un microcontrollore 
+Arduino Nano. Ho disegnato l'intero case in 3D per ottenere un risultato esteticamente gradevole. Lo scopo di questo
+progetto è creare un oggetto tascabile e esteticamente piacevole per modificare facilmente e velocemente i tag NFC. 
+L'idea mi è venuta quando ho installato delle serrature smart con tecnologia a 13,56 MHz e ho dovuto creare più tag,
+modificando gli UID di quelli acquistati da terze parti. Quindi, dopo aver acquistato tutto l'occorrente, ho disegnato 
+il case su Fusion 360, per poi stamparlo in 3D. La stampa non richiede supporti e si può fare in modo veloce. Finita la
+stampa dei 3 file, ho stagnato i cavi sul lettore RC522 per poi infilarlo nel case e colare le 4 spine con l'aiuto di 
+un accendino. Fissato il lettore, ho fatto passare i cavi nello scanso fatto nella staffa. Poi ho incollato la batteria.
+Avevo a disposizione una batteria al litio da 3,7 V che poi ti lascio. In alternativa, c'è un porta batterie a bottone 
+che rende il lavoro più facile e pulito. Incastro bene la staffa, ho stagnato tutti i cavi e incollato l'Arduino alla
+batteria con del nastro biadesivo. Con questo ho finito la parte hardware, quindi ho installato Arduino IDE e iniziato
+a divertirmi con i diversi sketch! Spero che questa guida ti sia d'aiuto e che userai questo strumento nel giusto modo.
 
 ![EXPLORER v12](https://github.com/joel00007/NFC-tag-editor/assets/148422777/1d4dbb2b-0c5c-405e-81f9-f5b5c20eccd8)
 

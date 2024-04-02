@@ -27,6 +27,9 @@ che rende il lavoro più facile e pulito. Incastro bene la staffa, ho stagnato t
 batteria con del nastro biadesivo. Con questo ho finito la parte hardware, quindi ho installato Arduino IDE e iniziato
 a divertirmi con i diversi sketch! Spero che questa guida ti sia d'aiuto e che userai questo strumento nel giusto modo.
 
+![image](https://github.com/Fitkner/NFC-tag-editor/assets/148422777/67754d5d-ef37-456f-99f9-6280e96cc174)
+![image](https://github.com/Fitkner/NFC-tag-editor/assets/148422777/f61b3d20-30d2-4ed0-a4ba-84087e16b2ad)
+
 
 Il collegamento del lettore e del bottone è molto semplice, basta aggiungere interruzione al collegamento del polo positivo:
 
